@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 account:
-  message: "Welcome to EasyBank account's releated prod API's"
+  message: "Welcome to EasyBank account's releated production API's"
   contactDetails:
     name: "Sid - Product Owner"
     email: "{cipher}bc08179572e0137d3e4837778cf9ceb4883c1441a95c7f2f6521eaffcb1f409b"

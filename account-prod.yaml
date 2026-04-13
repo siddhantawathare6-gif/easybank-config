@@ -5,7 +5,7 @@ account:
   message: "Welcome to EasyBank account's releated prod API's"
   contactDetails:
     name: "Sid - Product Owner"
-    email: "si@gmail.com"
+    email: "{cipher}bc08179572e0137d3e4837778cf9ceb4883c1441a95c7f2f6521eaffcb1f409b"
   onCallSupport:
     -(453)392-4829
     -(236)203-0384
